@@ -1,7 +1,7 @@
 nginx
 openjdk:22-oracle
 openjdk:22-slim
-openjdk:8
+
 jenkins/jenkins
 mysql:8.2.0
 redis:7.2.3
