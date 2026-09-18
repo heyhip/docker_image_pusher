@@ -1,12 +1,12 @@
 nginx:1.30
 #openjdk:22-oracle
-openjdk:25-oracle
+#openjdk:25-oracle
 eclipse-temurin:25-jre
 #openjdk:22-slim
 #openjdk:8
-jenkins/jenkins
+#jenkins/jenkins
 jenkins/jenkins:2.568.3-jdk21
-mysql:9.7
+mysql:8.4
 redis:7.4
 emqx/emqx
 #mysql:5.7.44
