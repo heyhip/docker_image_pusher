@@ -8,10 +8,12 @@ eclipse-temurin:25-jre
 jenkins/jenkins:2.568.3-jdk21
 mysql:8.4
 redis:7.4
-emqx/emqx
+#emqx/emqx
+emqx/emqx:6.3.0
 #mysql:5.7.44
-rabbitmq
-elasticsearch:8.15.3
+#rabbitmq
+rabbitmq:4.3.6-management
+elasticsearch:8.19.20
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
