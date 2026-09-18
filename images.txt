@@ -1,5 +1,6 @@
 nginx
 openjdk:22-oracle
+openjdk:25-oracle
 openjdk:22-slim
 openjdk:8
 jenkins/jenkins
