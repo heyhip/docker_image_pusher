@@ -9,6 +9,7 @@ jenkins/jenkins:2.568.3-jdk21
 mysql:8.4
 redis:7.4
 redis/redis-stack:7.4.0-v0
+redis/redis-stack:7.4.0-v1
 #emqx/emqx
 emqx/emqx:6.3.0
 #mysql:5.7.44
